@@ -76,4 +76,3 @@ if (digits == size_r)
 	rev_string(r);
 	return (r);
 }
-
